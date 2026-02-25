@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 656300943211253499775d8eb0009c70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3251318690348327827
+    second: Tempat dialog_0
+  - first:
+      213: 4119962323706453106
+    second: Tempat dialog_1
+  - first:
+      213: -4864960037659089333
+    second: Tempat dialog_2
+  - first:
+      213: 5286132048125797707
+    second: Tempat dialog_3
+  - first:
+      213: 3286957069641410933
+    second: Tempat dialog_4
+  - first:
+      213: -6291196261432958061
+    second: Tempat dialog_5
+  - first:
+      213: 8431914673673363395
+    second: Tempat dialog_6
+  - first:
+      213: 8830454352002644232
+    second: Tempat dialog_7
+  - first:
+      213: -234626316365029905
+    second: Tempat dialog_8
+  - first:
+      213: -4217781218998146811
+    second: Tempat dialog_9
+  - first:
+      213: -1769295996051040684
+    second: Tempat dialog_10
+  - first:
+      213: 963780747921231611
+    second: Tempat dialog_11
+  - first:
+      213: 397060371653783910
+    second: Tempat dialog_12
+  - first:
+      213: -6508435704890873418
+    second: Tempat dialog_13
+  - first:
+      213: -119354545023352839
+    second: Tempat dialog_14
+  - first:
+      213: -599258510677324577
+    second: Tempat dialog_15
+  - first:
+      213: -6483404245535174210
+    second: Tempat dialog_16
+  - first:
+      213: 5638847597122656551
+    second: Tempat dialog_17
+  - first:
+      213: -1676842679117770983
+    second: Tempat dialog_18
+  - first:
+      213: 1062929103925893493
+    second: Tempat dialog_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 45, y: 48, z: 340, w: 837}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempat dialog_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 1524
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7299f018306314e40800000000000000
+      internalID: 5638847597122656551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempat dialog_0: 3251318690348327827
+      Tempat dialog_1: 4119962323706453106
+      Tempat dialog_10: -1769295996051040684
+      Tempat dialog_11: 963780747921231611
+      Tempat dialog_12: 397060371653783910
+      Tempat dialog_13: -6508435704890873418
+      Tempat dialog_14: -119354545023352839
+      Tempat dialog_15: -599258510677324577
+      Tempat dialog_16: -6483404245535174210
+      Tempat dialog_17: 5638847597122656551
+      Tempat dialog_18: -1676842679117770983
+      Tempat dialog_19: 1062929103925893493
+      Tempat dialog_2: -4864960037659089333
+      Tempat dialog_20: -1644431807
+      Tempat dialog_3: 5286132048125797707
+      Tempat dialog_4: 3286957069641410933
+      Tempat dialog_5: -6291196261432958061
+      Tempat dialog_6: 8431914673673363395
+      Tempat dialog_7: 8830454352002644232
+      Tempat dialog_8: -234626316365029905
+      Tempat dialog_9: -4217781218998146811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

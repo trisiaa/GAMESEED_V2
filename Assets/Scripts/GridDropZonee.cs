@@ -8,7 +8,8 @@ public class GridDropZonee : MonoBehaviour
     public GameObject gridCellPrefab;
     public float cellSize = 60f;
 
-    public GameObject fullBanner;  // <== Tambahkan field banner
+    public GameObject fullBanner;  // Banner to indicate grid is full
+    public Button actionButton;     // Button to appear when grid is full
 
     private GridCell[,] gridCells;
     private bool isInitialized = false;
@@ -61,9 +62,11 @@ public class GridDropZonee : MonoBehaviour
 
         isInitialized = true;
 
-        // Pastikan banner tidak aktif saat awal
+        // Ensure banner and button are not active at the start
         if (fullBanner != null)
             fullBanner.SetActive(false);
+        if (actionButton != null)
+            actionButton.gameObject.SetActive(false);
 
         Debug.Log("Grid initialization completed", this);
     }
@@ -123,7 +126,7 @@ public class GridDropZonee : MonoBehaviour
 
     private void CheckIfGridFull()
     {
-        if (fullBanner == null) return;
+        if (fullBanner == null || actionButton == null) return;
 
         bool allFilled = true;
 
@@ -141,6 +144,7 @@ public class GridDropZonee : MonoBehaviour
         }
 
         fullBanner.SetActive(allFilled);
+        actionButton.gameObject.SetActive(allFilled); // Show the button if the grid is full
     }
 
     private bool IsReady()
